@@ -1,0 +1,27 @@
+{
+  "network": "devnet",
+  "solana": {
+    "rpcUrl": "https://api.devnet.solana.com",
+    "commitment": "confirmed",
+    "defaultPublicKey": "YourPublicKeyHere",
+    "fromPublicKey": "YourFromPublicKeyHere",
+    "toPublicKey": "YourToPublicKeyHere",
+    "transactionAmount": 100,
+    "privateKey": "YourPrivateKeyHere"
+  },
+  "tradingBot": {
+    "enabled": false,
+    "strategy": "moving_average",
+    "aiModels": [
+      "LLAMA",
+      "DeepSeek",
+      "OpenAI",
+      "Gemini"
+    ],
+    "riskLevel": "low"
+  },
+  "logging": {
+    "level": "info",
+    "logFile": "app.log"
+  }
+}
