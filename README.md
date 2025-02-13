@@ -12,4 +12,4 @@ OuTre is a fully modular AI Trading Agent Framework designed for **Solana-based 
 1. Configure your agent in `config.json`
 2. Run your agent:
    ```bash
-   python main.ts
+   run main.ts
