@@ -9,4 +9,4 @@ OuTre is a fully modular AI Trading Agent Framework designed for **Solana-based 
 - **Portfolio Management** – Upload agent JSONs to OuTre.app or run locally.
 
 ### 🔧 Usage
-Please see on this link
+Please see on this link ![NPM](https://www.npmjs.com/package/@outre-ai/core)
