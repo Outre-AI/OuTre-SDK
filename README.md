@@ -9,7 +9,4 @@ OuTre is a fully modular AI Trading Agent Framework designed for **Solana-based 
 - **Portfolio Management** – Upload agent JSONs to OuTre.app or run locally.
 
 ### 🔧 Usage
-1. Configure your agent in `config.json`
-2. Run your agent:
-   ```bash
-   run main.ts
+Please see on this link
